@@ -1,0 +1,12 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.badge {
+  padding: 0 6px;
+  color: #fff;
+  border-radius: 12px;
+}
